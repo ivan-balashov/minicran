@@ -1,0 +1,8 @@
+Package: data.table
+Version: 1.15.4
+Depends: R (>= 3.1.0)
+Imports: methods
+Suggests: bit64 (>= 4.0.0), bit (>= 4.0.4), R.utils, xts, zoo (>= 1.8-1), yaml, knitr, markdown
+License: MPL-2.0 | file LICENSE
+MD5sum: c3826bb214e777df145c0570cf597847
+NeedsCompilation: yes
